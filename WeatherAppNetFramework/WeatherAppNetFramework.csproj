@@ -9,7 +9,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>WeatherAppNetFramework</RootNamespace>
     <AssemblyName>WeatherAppNetFramework</AssemblyName>
-    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <TargetFrameworkProfile />
@@ -44,7 +44,7 @@
     <Reference Include="System.Xml" />
     <Reference Include="WeatherService, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\WeatherService\bin\Debug\net451\WeatherService.dll</HintPath>
+      <HintPath>..\WeatherService\bin\Debug\net45\WeatherService.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
